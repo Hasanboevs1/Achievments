@@ -1,1 +1,1 @@
-Hi 
+Console.WriteLine("I am the ghost of the Uchiha");
